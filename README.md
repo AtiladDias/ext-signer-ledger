@@ -16,7 +16,7 @@ channel to the Ledger Hardware Device.
 Below are examples and notes on installing the necessary transports:
 
 ```shell
-# Install the extension pacakge
+# Install the extension package
 /home/ricmoo> npm install @ethers-ext/signer-ledger
 
 # Depending on your environment, install any of the
